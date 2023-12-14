@@ -11,15 +11,15 @@ collections_config:
         path: schemas/page.html
     _enabled_editors:
       - visual
-  articles:
+  releases:
     icon: article 
-    path: content/blog
+    path: content/releases
     disable_add_folder: true
     schemas:
       default: 
         path: schemas/post.md
     add_options:
-      - name: Add Article
+      - name: Add Release
         editor: content
         schema: default
     _enabled_editors:
@@ -55,9 +55,9 @@ collection_groups:
   - heading: Pages 
     collections:
       - pages
-  - heading: Blogging 
+  - heading: Releases 
     collections:
-      - articles
+      - releases
   - heading: Site Settings
     collections:
       - data
