@@ -5,9 +5,9 @@ categories:
   - Email
 author: Gerard Hopper
 thumbImg:
-  image_path: /images/blog/blog-thumb-1.jpg
+  image_path: /images/releases/blog-thumb-1.jpg
 featuredImg:
-  image_path: /images/blog/featured-image.jpg
+  image_path: /images/releases/featured-image.jpg
 seo:
   page_description: 
   canonical_url: 

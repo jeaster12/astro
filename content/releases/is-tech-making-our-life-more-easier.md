@@ -5,9 +5,9 @@ categories:
   - Technology
 author: Wendy Parkes
 thumbImg:
-  image_path: /images/blog/blog-thumb-3.jpg
+  image_path: /images/releases/blog-thumb-3.jpg
 featuredImg:
-  image_path: /images/blog/featured-image-5.jpg
+  image_path: /images/releases/featured-image-5.jpg
 seo:
   page_description: 
   canonical_url: 

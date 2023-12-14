@@ -5,9 +5,9 @@ categories:
   - Marketing
 author: Arther Conal
 thumbImg:
-  image_path: /images/blog/blog-thumb-2.jpg
+  image_path: /images/releases/blog-thumb-2.jpg
 featuredImg:
-  image_path: /images/blog/featured-image-6.jpg
+  image_path: /images/releases/featured-image-6.jpg
 seo:
   page_description: 
   canonical_url: 

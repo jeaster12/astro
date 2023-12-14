@@ -5,9 +5,9 @@ categories:
   - Marketing
 author: Miyah Kelley
 thumbImg:
-  image_path: /images/blog/blog-thumb-5.jpg
+  image_path: /images/releases/blog-thumb-5.jpg
 featuredImg:
-  image_path: /images/blog/featured-image-3.jpg
+  image_path: /images/releases/featured-image-3.jpg
 seo:
   page_description: 
   canonical_url: 

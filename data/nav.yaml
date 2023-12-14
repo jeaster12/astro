@@ -16,12 +16,12 @@ items:
     text: About
     enable_dropdown: false
     dropdown:
-  - link: /blog/
-    text: Blog
+  - link: /releases/
+    text: Releases
     enable_dropdown: true
     dropdown:
       - dropdown_text: All Articles
-        dropdown_link: /blog
+        dropdown_link: /releases
       - dropdown_text: Marketing
         dropdown_link: /categories/marketing
       - dropdown_text: Technology

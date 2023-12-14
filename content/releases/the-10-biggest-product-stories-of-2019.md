@@ -1,18 +1,18 @@
 ---
-date: 2022-06-10T00:00:00Z
-title: 5 things to improve you email templates
+date: 2022-03-07T00:00:00Z
+title: What are the best email clients?
 categories:
   - Marketing
-author: Aaron Britt
+author: Wendy Parkes
 thumbImg:
-  image_path: /images/blog/blog-thumb-6.jpg
+  image_path: /images/releases/blog-thumb-4.jpg
 featuredImg:
-  image_path: /images/blog/featured-image-2.jpg
+  image_path: /images/releases/featured-image-4.jpg
 seo:
-  page_description:
-  canonical_url:
-  featured_image:
-  author_twitter_handle:
+  page_description: 
+  canonical_url: 
+  featured_image: 
+  author_twitter_handle: 
   open_graph_type:
   no_index: false
 draft: false
